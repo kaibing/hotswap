@@ -1,0 +1,5 @@
+rootProject.name = 'hotswap'
+include 'game-server'
+include 'hot-update'
+include 'load-agent'
+
